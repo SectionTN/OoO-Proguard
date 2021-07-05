@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Oo0Proguard:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Oo0Proguard_jar</output-path>
+    <root id="archive" name="proguard-base-5.3.3.jar">
+      <element id="module-output" name="Oo0Proguard" />
+    </root>
+  </artifact>
+</component>
